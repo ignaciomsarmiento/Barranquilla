@@ -2,6 +2,7 @@
 *.Rmd
 *.Rproj
 *.dta
+*.R
 #*.py 
 
 
